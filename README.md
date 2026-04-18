@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unreeeall
 - 👀 I’m interested in AI, Minecraft Modding and everything sience related.
-- 🌱 I’m currently learning (Minecraft Fabric Modding, .NET WebDevelopment/WPF, C, C++, C#, HTML, JS, CSS, JAVA, Python) 
+- 🌱 I’m currently learning (Minecraft Fabric Modding, WPF, C#, HTML, JS/TS, CSS, JAVA, Python) 
 - 💞️ I’m looking to collaborate on Minecraft Modding
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
